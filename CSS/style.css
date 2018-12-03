@@ -1,0 +1,213 @@
+.Home{
+    height: 100%;
+    background-image: url("../images/images/images/Bg-color_01.png");
+    background-position: center top;
+    background-size: cover;
+    padding-top: 31px;
+}
+.navbar-header{
+    margin: auto;
+}
+.navbar-header a img{
+    width: 100%;
+}
+.Home img{
+    width: 100%;
+}
+.nav  li a:hover{
+    border-bottom: solid 2px #878787;
+    text-transform: none;
+    font-size: 16px;
+    font-family: 'Asap', sans-serif;
+    background-color: #dedede;
+}
+.nav li a{
+    color: #878787;
+    font-size: 16px;
+    font-family: 'Asap', sans-serif;
+    text-transform: uppercase;
+}
+.Home .container h1{
+    font-size: 90px;
+    text-align: left;
+    padding-top: 125px;
+    font-family: 'Asap', sans-serif;
+    font-weight: normal;
+    margin: unset;
+}
+.Home .container p{
+    color: #999999;
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Asap', sans-serif;
+    font-weight: normal;
+    padding-bottom: 28px;
+}
+.container .wh-bt{
+    background-color: white;
+    border: solid 0 black;
+    margin-right: 20px;
+    padding: 20px 30px ;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    text-decoration: none;
+    font-family: 'Asap', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    -webkit-box-shadow: 3px 9px 4px 4px #cccccc;
+    box-shadow: 3px 9px 4px 4px #cccccc;
+}
+.container .gr-bt{
+    background-color: #e1e1e1;
+    border: solid 1px black;
+    margin-right: 20px;
+    padding: 20px 47px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    text-decoration: none;
+    font-family: 'Asap', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+.about .container .row h2{
+    text-align: left;
+    color: #717171;
+    font-size: 46px;
+    font-family: 'Asap', sans-serif;
+    font-weight: bold;
+    padding-top: 178px;
+    margin-right: 280px;
+    text-transform: uppercase;
+}
+.about .container .row h2:before{
+
+}
+.about p{
+    text-align: left;
+    color: #717171;
+    font-size: 16px;
+    font-family: 'Asap', sans-serif;
+    font-weight: initial;
+    padding-bottom: 37px;
+    margin-right: 138px;
+}
+.about a{
+    padding: 19px 46px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    border: solid 1px black;
+    text-decoration: none;
+}
+.about img{
+    width: 100%;
+    padding-top: 108px;
+    padding-bottom: 128px;
+}
+.service{
+    margin: auto;
+    text-align: center;
+}
+.service h2{
+    color: #717171;
+    font-family: 'Asap', sans-serif;
+    font-weight: bold;
+    font-size: 46px;
+    margin-bottom: 71px;
+}
+.service p{
+    color: #717171;
+    font-family: 'Asap', sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    padding-bottom: 90px;
+}
+.skill{
+    text-align: center;
+}
+.skill h2{
+    text-align: center;
+    color: #717171;
+    font-family: 'Asap', sans-serif;
+    font-weight: bold;
+    font-size: 46px;
+}
+.skill img{
+ padding-bottom: 254px;
+}
+.portfolio{
+    text-align: center;
+}
+.portfolio img{
+    margin-bottom: 30px;
+}
+.portfolio h2{
+    color: #717171;
+    font-family: 'Asap', sans-serif;
+    font-weight: bold;
+    font-size: 46px;
+    margin-bottom: 46px;
+}
+.portfolio a{
+    -webkit-box-shadow: 3px 9px 4px 4px #cccccc;
+    box-shadow: 3px 9px 4px 4px #cccccc;
+    padding: 22px 48px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4d4d4d;
+    font-family: 'Asap', sans-serif;
+    font-weight: normal;
+}
+.tm h2{
+    color: #717171;
+    font-family: 'Asap', sans-serif;
+    font-weight: bold;
+    font-size: 46px;
+    margin-bottom: 48px;
+    text-align: center;
+    padding-top: 248px;
+}
+.owl-theme .owl-dots .owl-dot span{
+    background-color: white;
+    border-radius: unset;
+    border: solid 1px black;
+    margin: 4px;
+}
+.owl-theme .owl-dots .owl-dot.active span {
+    background: black;
+    border-radius: unset;
+    margin: 4px;
+}
+.owl-carousel .owl-item img{
+    max-width: 158px;
+    display: inline-block;
+    margin: 35px 30px 107px 120px;
+}
+.owl-carousel .owl-item h2{
+    color: #212121;
+    font-family: 'Asap', sans-serif;
+    font-weight: normal;
+    text-align: left;
+    font-size: 30px;
+    padding-top: 45px;
+}
+.owl-carousel .owl-item p:nth-child(1){
+    color: #212121;
+    font-family: 'Asap', sans-serif;
+    font-weight: initial;
+}
+.work{
+    text-align: center;
+}
+.work img{
+ padding-top: 172px;
+}
+.work h3{
+    color: #212121;
+    font-family: 'Asap', sans-serif;
+    font-weight: revert;
+    font-size: 30px;
+}
+.work p{
+    color: #212121;
+    font-family: 'Asap', sans-serif;
+}
