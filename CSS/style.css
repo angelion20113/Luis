@@ -247,7 +247,7 @@ footer .form-control{
    width: 767px;
     height: 209px;
 }
-footer a{
+footer .btn{
     text-transform: uppercase;
     background-color: white;
     padding: 18px 30px;
@@ -259,11 +259,20 @@ footer a{
     color: #4d4d4d;
     margin-bottom: 58px;
 }
-footer a:after{
+footer .btn:after{
     content: url("../images/images/images/images/images/send-button.png");
 }
-footer a:hover{
+footer .btn:hover{
     text-decoration: none;
     color: #4d4d4d;
 }
-
+footer .facebook{
+    padding:7px 10px 5px;
+    border: solid 1px transparent;
+    color: #4d4d4d;
+    background-color: white;
+    text-align: unset;
+}
+footer .twitter{
+    padding: ;
+}
