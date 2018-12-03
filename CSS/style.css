@@ -238,8 +238,12 @@ footer #exampleInputName{
     margin-bottom: 29px;
 }
 footer #exampleInputEmail3{
-    width: 372px;
+   width: 372px;
     height: 59px;
     border-radius: unset;
     margin-bottom: 29px;
+}
+footer .form-control{
+   width: 767px;
+    height: 209px;
 }
