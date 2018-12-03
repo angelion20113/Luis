@@ -79,8 +79,9 @@
     margin-right: 280px;
     text-transform: uppercase;
 }
-.about .container .row h2:before{
-
+.about h2:before{
+ content: url("../images/images/images/title-line.png");
+    margin-bottom: 20px;
 }
 .about p{
     text-align: left;
@@ -210,4 +211,20 @@
 .work p{
     color: #212121;
     font-family: 'Asap', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    padding-bottom: 221px;
+}
+footer{
+    background: url("../images/images/images/images/footer_bg.png") center;
+    background-size: cover;
+}
+footer h2{
+   color: white;
+    text-transform: uppercase;
+    font-size: 42px;
+    font-family: 'Asap', sans-serif;
+    font-weight:bold;
+    padding-top: 144px;
+    text-align: center;
 }
